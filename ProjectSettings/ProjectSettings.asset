@@ -583,9 +583,13 @@ PlayerSettings:
   enableInternalProfiler: 0
   logObjCUncaughtExceptions: 1
   enableCrashReportAPI: 0
-  cameraUsageDescription: 
-  locationUsageDescription: 
-  microphoneUsageDescription: 
+  cameraUsageDescription: App would like to access your Camera for uploading attachment
+    in Customer Center. Your photos wont be shared without your permission.
+  locationUsageDescription: App would like to use your current location to display
+    it on the app, also for directions and estimation of your travel times. It is
+    secure and private.
+  microphoneUsageDescription: App would like to access your Microphone for uploading
+    attachment in Customer Center. Your videos wont be shared without your permission.
   bluetoothUsageDescription: 
   macOSTargetOSVersion: 10.13.0
   switchNMETAOverride: 
