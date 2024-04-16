@@ -14,3 +14,7 @@
 # Actual
 * Overwrite by third-party plugin
 
+# Commit
+* 3b7caafeae1df3ab13856da70a9f3775b20d6615: original sl client state
+* 3014cd8570e602bc44f569a8ea4132e1480baea7: able to see problem, `ld: framework 'BasePublic' not found`
+* 028d532b1fc6030a615e462eaef0e23179759437: fix
