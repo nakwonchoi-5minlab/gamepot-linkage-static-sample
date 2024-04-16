@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>CLIENT_ID</key>
+		<string>000000000000-cccccccccccccccccccccccccccccccc.apps.googleusercontent.com</string>
+		<key>REVERSED_CLIENT_ID</key>
+		<string>com.googleusercontent.apps.000000000000-cccccccccccccccccccccccccccccccc</string>
+		<key>ANDROID_CLIENT_ID</key>
+		<string>000000000000-ddddddddddddddddddddddddddddddd.apps.googleusercontent.com</string>
+		<key>API_KEY</key>
+		<string>ffffffffffffffffffffffffffffffff</string>
+		<key>GCM_SENDER_ID</key>
+		<string>000000000000</string>
+		<key>PLIST_VERSION</key>
+		<string>1</string>
+		<key>BUNDLE_ID</key>
+		<string>com.defaultcompany.gamepotlinkagestatic</string>
+		<key>PROJECT_ID</key>
+		<string>gamepotlinkagestatic-000000000000</string>
+		<key>STORAGE_BUCKET</key>
+		<string>gamepotlinkagestatic-000000000000</string>
+		<key>IS_ADS_ENABLED</key>
+		<false></false>
+		<key>IS_ANALYTICS_ENABLED</key>
+		<false></false>
+		<key>IS_APPINVITE_ENABLED</key>
+		<true></true>
+		<key>IS_GCM_ENABLED</key>
+		<true></true>
+		<key>IS_SIGNIN_ENABLED</key>
+		<true></true>
+		<key>GOOGLE_APP_ID</key>
+		<string>1:000000000000:ios:1111111111111111111111</string>
+		<key>DATABASE_URL</key>
+		<string>https://gamepotlinkagestatic-000000000000.firebaseio.com</string>
+	</dict>
+</plist>

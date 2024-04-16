@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "000000000000",
+    "firebase_url": "https://project-id-0000000.firebaseio.com",
+    "project_id": "project-id-0000000",
+    "storage_bucket": "project-id-0000000.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:000000000000:android:1111111111111111111111",
+        "android_client_info": {
+          "package_name": "com.defaultcompany.gamepotlinkagestatic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "000000000000-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "fffffffffffffffffffffffffff"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "000000000000-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "000000000000-cccccccccccccccccccccccccccccccc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.defaultcompany.gamepotlinkagestatic",
+                "app_store_id": "1111111111"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
