@@ -3,18 +3,18 @@
 <plist version="1.0">
 <dict>
 <key>gamepot_project_id</key>
-<string></string>
+<string>ef3b156b-a2f2-4a3e-9acd-32162037e1fb</string>
 <key>gamepot_api_url</key>
 <string></string>
 <key>gamepot_dash_url</key>
 <string></string>
 <key>gamepot_facebook_app_id</key>
-<string></string>
+<string>0000000000000000</string>
 <key>gamepot_facebook_display_name</key>
-<string></string>
+<string>gamepotlinkagestatic</string>
 <key>gamepot_google_app_id</key>
-<string></string>
+<string>000000000000-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apps.googleusercontent.com</string>
 <key>gamepot_google_url_schemes</key>
-<string></string>
+<string>com.googleusercontent.apps.000000000000-cccccccccccccccccccccccccccccccc</string>
 </dict>
 </plist>
